@@ -29,3 +29,5 @@ For now, we will use the Test option in Workflow Studio.
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Creating%20an%20Incident%20to%20test%20Workflow.png?raw=true)
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Run%20Test%20on%20Test%20Flow.png?raw=true)
 We'll click View the details:
+The email sent shows the Trigger State is Complete, it was able to pull the user's email, the incident 
+![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Test%20Run%20Results.png?raw=true)
