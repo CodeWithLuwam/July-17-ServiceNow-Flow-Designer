@@ -11,5 +11,8 @@ We'll click on the New button, and then on the drop down, Flow.
  ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Workflow%20Studio%20Record%20Created.png?raw=true)
 - And we will select the Incident table since its hwe an Incident gets created and press done for now.
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Select%20Incident%20Table.png?raw=true)
-
-
+- So, we have our Trigger, now we need an Action and we'll press the + sign under Actions.
+  - We have the option for 'Action', 'Flow Logic' or 'Subflow, but we will pick Action
+    ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Options%20under%20Actions.png?raw=true)
+- The Action we choose will be to "Send Email" under ServiceNow Core
+![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Action%20is%20to%20Send%20Email.png?raw=true)
