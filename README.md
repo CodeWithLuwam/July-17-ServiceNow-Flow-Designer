@@ -9,4 +9,7 @@ We'll click on the New button, and then on the drop down, Flow.
   - We want a ticket to go out when a User submits an incident
   - We are working with a record, since the task is when a record is created
  ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Workflow%20Studio%20Record%20Created.png?raw=true)
+- And we will select the Incident table since its hwe an Incident gets created and press done for now.
+![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Select%20Incident%20Table.png?raw=true)
+
 
