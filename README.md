@@ -41,6 +41,10 @@ Second activity works with Flow Logic
 ----------------------------------------------------------------------------------------------------
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Flow%20Logic.png?raw=true) <br>
 Creating Conditions <br>
+If logic<br>
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Flow%20Logic%20If%20Statement.png?raw=true) <br>
-We'll give our condition a name and we can drag and drop or dot walk <br>
+To give our condition a name, we can drag and drop or dot walk <br>
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Condition%20Path.png?raw=true)
+If Caller is True, we create an Else logic and an Action for the Else flow<br>
+![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/If,%20Else,%20Action%20Flow%20Logic.png?raw=true)
+
