@@ -1,6 +1,6 @@
 # ServiceNow-Flow-Designer #
 
-First activity works with Action
+First activity works with Trigger & Action
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 Workflow Studio Homescreen
@@ -36,7 +36,7 @@ The email sent shows the Trigger State is Complete, it was able to pull the user
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Test%20Run%20Results.png?raw=true)
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
-Second activity works with Flow Logic
+Second activity works with Trigger, Flow Logic & Action
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Flow%20Logic.png?raw=true) <br>
