@@ -1,5 +1,8 @@
-# ServiceNow-Flow-Designer
+# ServiceNow-Flow-Designer #
 
+First activity works with Action
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 Workflow Studio Homescreen
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Workflow%20Studio%20Homescreen.png?raw=true)
 We'll click on the New button, and then on the drop down, Flow.
@@ -31,3 +34,13 @@ For now, we will use the Test option in Workflow Studio.
 We'll click View the details:
 The email sent shows the Trigger State is Complete, it was able to pull the user's email, the incident 
 ![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Test%20Run%20Results.png?raw=true)
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Second activity works with Flow Logic
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Flow%20Logic.png?raw=true) <br>
+Creating Conditions <br>
+![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Flow%20Logic%20If%20Statement.png?raw=true) <br>
+We'll give our condition a name and we can drag and drop or dot walk <br>
+![](https://github.com/CodeWithLuwam/ServiceNow-Flow-Designer/blob/main/Images/Condition%20Path.png?raw=true)
